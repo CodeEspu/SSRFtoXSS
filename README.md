@@ -48,7 +48,7 @@ sudo dpkg -i wkhtmltox_012.6.1-2.bullseye_amd64.deb
 - Instalar libssl1.1 (solución a la dependencia):
 
 ```bash
-wget [http://ftp.debian.org/debian/pool/main/o/openssl/libssl1.1_1.1.1w-0+deb11u1_amd64.deb](http://ftp.debian.org/debian/pool/main/o/openssl/libssl1.1_1.1.1w-0+deb11u1_amd64.deb)
+wget http://ftp.debian.org/debian/pool/main/o/openssl/libssl1.1_1.1.1w-0+deb11u1_amd64.deb
 sudo dpkg -i libssl1.1_1.1.1w-0+deb11u1_amd64.deb
 ```
 
